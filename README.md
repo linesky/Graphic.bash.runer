@@ -1,1 +1,3 @@
-render bats fileson the page
+# copys.to.temp
+
+copys files into temps files
